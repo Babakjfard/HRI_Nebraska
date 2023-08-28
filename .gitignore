@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# VSCode
+.DS_Store
+.vscode
+npm-debug.log
+Thumbs.db
+*/node_modules/
+*/out/
+*/.vs/
+tsconfig.lsif.json
+*.lsif
+*.db
+
 # Distribution / packaging
 .Python
 build/
